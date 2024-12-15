@@ -1,6 +1,10 @@
 # CEO Slayer 24
 **CEO Slayer 24** is a heart-pounding, claim-denying shooter game—not to be mistaken for GTA.
 
+### Screenshot 1
+![Screenshot 1](ceoslayer-screen1.png)
+*This is a gameplay screenshot.*
+
 ## Overview
 This is an open-source project designed to serve as both a fun game and a boilerplate/template for bigger, better games. While the current version is simple, it's a great starting point for developers who want to improve it, create mods, or build entirely new levels.
 
@@ -35,10 +39,6 @@ The game isn’t perfect—just like our healthcare system. Burn.
 
 ## Screenshots and Assets
 
-### Screenshot 1
-![Screenshot 1](ceoslayer-screen1.png)
-*This is a gameplay screenshot.*
-
 ### Screenshot 2
 ![Screenshot 2](ceoslayer-screen2.png)
 *Another gameplay screenshot.*
@@ -48,7 +48,7 @@ The game isn’t perfect—just like our healthcare system. Burn.
 *Mockup of the PlayStation 4 game cover.*
 
 **Editable File:**
-- `ceoslayer-ps4-game.xcf`: Open this in GIMP to edit the cover.
+- `ceoslayer-ps4-game.xcf`: Open this in GIMP to edit the PS4 game cover.
 
 ### HD Cover Art
 ![HD Cover Art](ceoslayer-24-cover-hd.png)
