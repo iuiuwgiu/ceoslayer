@@ -31,7 +31,7 @@ The game isn’t perfect—just like our healthcare system. Burn.
 ## Project Links
 - **GitHub:** [@p4wnsolo](https://github.com/p4wnsolo)
 - **Twitter:** [@p4wnsolo](https://twitter.com/p4wnsolo)
-- **MyCEO Blog:** [myceo.lovestoblog.com](http://myceo.lovestoblog.com)
+- **(Related) MyCEO Project:** [myceo.lovestoblog.com](http://myceo.lovestoblog.com)
 
 ## Screenshots and Assets
 
