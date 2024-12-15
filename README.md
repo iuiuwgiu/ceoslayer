@@ -34,3 +34,7 @@ Github:
 
 Twitter:
 [p4wnsolo](https://twitter.com/p4wnsolo)
+
+MyCEO:
+[myceo.lovestoblog.com](http://myceo.lovestoblog.com)
+
