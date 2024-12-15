@@ -61,29 +61,16 @@ The game isn’t perfect—just like our healthcare system. Burn.
 Enjoy the game, and don’t forget to share your creations with the community!
 
 
+Tools used:
 
-## Screenshots and Assets
+- Claude.ai (Used this to generate the game code)
+(Prompt: make a quick game i could run in a single-file jsfiddle. make the game where you're a guy on a city street - and theres a target animal on the sidewalk, and you need to shoot the target animal before it enters the building. make the game like zelda / gta 1 for pc (top down). keep it simple and guaranteed to work)
+  
+- https://deepai.org/machine-learning-model/text2img (Used this to generate the "shooter" game cover image)
+(Prompt:  make a video game cover for a fictional video game called CEO Shooter where the hero is wearing a hoodie and pointing toward the distance)
 
-### Screenshot 1
-![Screenshot 1](ceoslayer-screen1.png)
-*This is a screenshot of the application - Screenshot 1.*
+- GIMP (used this to edit the images)
 
-### Screenshot 2
-![Screenshot 2](ceoslayer-screen2.png)
-*This is a screenshot of the application - Screenshot 2.*
+- https://getimg.ai/uncrop (Used this to "outpaint" the image given by deepAI's image generator)
 
-### PlayStation 4 Game Cover
-![PlayStation 4 Game](ceoslayer-ps4-game.png)
-*This image showcases the PlayStation 4 game cover.*
-
-### GIMP Project File
-`ceoslayer-ps4-game.xcf`
-*Open this file in GIMP to edit the PlayStation 4 game cover.*
-
-### HD Cover Art
-![HD Cover Art](ceoslayer-24-cover-hd.png)
-*This image is the HD cover art for the project.*
-
-### GIMP Project File
-`ceoslayer-24-cover-hd.xcf`
-*Open this file in GIMP to edit the HD cover art.*
+- Free web hosting ("infinity free")
